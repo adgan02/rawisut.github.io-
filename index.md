@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+นายรวิสุต แสนวันดี 
+   อายุ 23 เพศ ชาย
+   เกิดวันที่ 13 ตุลาคม 2542
+   เกิดที่ โรงพยาบาลเจ้าพระยาอภัยภูเบศร จังหวัด ปราจีนบุรี 
 
-You can use the [editor on GitHub](https://github.com/adgan02/rawisut.github.io-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- จบชั้นประถมศึกษาปีที่ 6 ที่ เซนยอเซฟกาฬสินธุ์
+- จบชั้นมัธยมศึกษาศึกษาปีที่ 3 ที่ สหัสขันธุ์ศึกษา
+- จบชั้นมัธยมศึกษาศึกษาปีที่ 6 ที่ อนุกูลนารี
+- กำลังศึกษาหลักสูตรวิศวกรรมศาสตรบัณฑิต (วศ.บ.) สาขาวิชาวิศวกรรมคอมพิวเตอร์และระบบอัตโนมัติ ชั้นปี 3 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+1. อาหารที่ชอบ ปลาหมึก กุ้ง และ ปูทะเล
+2. สิ่งที่ชอบ เกมส์ คอมพิวเตอร์ นิยาย ไลท์โนเวล และมังงะ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+![22738](https://user-images.githubusercontent.com/89058265/138403872-cfad5783-a75d-4cd2-a831-5d5c71b6abb3.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+For more details see [facebook](https://www.facebook.com/pawat.senwandi).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adgan02/rawisut.github.io-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
